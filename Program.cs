@@ -299,6 +299,7 @@ namespace TukaSheBachkam
                             Console.WriteLine("Baron spit on you and reduced your damage!! \n Your damage is 10% lower!!");
                             playerCharacter.AbilityOneDmg -= playerCharacter.AbilityTwoDmg * 0.10f;
                             playerCharacter.AbilityTwoDmg -= playerCharacter.AbilityTwoDmg * 0.10f;
+                            bossStage++;
                         }
                         playerCharacter.Hp -= GetEnemyDamage(currentLevel);
                         if (!CharacterDied())
@@ -526,7 +527,7 @@ namespace TukaSheBachkam
                     case 5:
                         return RiftHerald.Dmg_;
                     case 6:
-                        return BaronNashor.Hp;
+                        return BaronNashor.Dmg_;
                     default:
                         return 0;
                 }
