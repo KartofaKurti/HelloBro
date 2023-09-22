@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TukaSheBachkam/1.0.0": {
+        "runtime": {
+          "TukaSheBachkam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TukaSheBachkam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

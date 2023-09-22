@@ -1,0 +1,15 @@
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.exe
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.deps.json
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.runtimeconfig.json
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.runtimeconfig.dev.json
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.dll
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\bin\Debug\net5.0\TukaSheBachkam.pdb
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.AssemblyInfoInputs.cache
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.AssemblyInfo.cs
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.csproj.CoreCompileInputs.cache
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.dll
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\refint\TukaSheBachkam.dll
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.pdb
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\TukaSheBachkam.genruntimeconfig.cache
+C:\Users\Kartof\source\repos\TukaSheBachkam\TukaSheBachkam\obj\Debug\net5.0\ref\TukaSheBachkam.dll
